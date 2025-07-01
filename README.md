@@ -2,6 +2,8 @@
 
 This project provides a comprehensive simulation and optimization system for the efficient placement of Electric Vehicle (EV) charging stations within an urban area. The methodology is based on a Fixed-Location Optimization Model.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15786174.svg)](https://doi.org/10.5281/zenodo.15786174)
+
 ## Reference Paper
 
 **Efficient Allocation of Electric Vehicles Charging Stations: Optimization Model and Application to a Dense Urban Network**  
